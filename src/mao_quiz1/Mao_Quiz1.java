@@ -14,7 +14,7 @@ public class Mao_Quiz1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hI");
+        System.out.println("hI, hello, hi ,hi");
     }
     
 }
